@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I like developing things related to backend and game dev, mostly with these technologies.
+I like reverse engineering and programming. 
 
 [![My Skills](https://skillicons.dev/icons?i=python,php,lua,cpp,html,css)](https://skillicons.dev)
 
